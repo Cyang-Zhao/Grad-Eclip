@@ -2,7 +2,7 @@
 
 Grad-Eclip is a straightforward and easy-to-implement method to generate visual explanation heat maps for transformer-based CLIP. It can be applied on both image and text branch. The framework and results are shown here:
 
-<img width=90% src="https://github.com/Cyang-Zhao/Grad-Eclip/blob/main/images/framework.jpg"/>
+<img width=90% src="https://github.com/Cyang-Zhao/Grad-Eclip/blob/main/images/framework.png"/>
 <img width=90% src="https://github.com/Cyang-Zhao/Grad-Eclip/blob/main/images/examples.jpg"/>
 
 # Citation
