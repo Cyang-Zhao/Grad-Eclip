@@ -22,6 +22,14 @@ If you use the code in your research, please cite:
   month = {July},
   year = {2024}
 }
+
+@article{zhao2026grad,
+  title={Grad-ECLIP: Gradient-based Visual and Textual Explanations for CLIP},
+  author={Zhao, Chenyang and Wang, Kun and Hsiao, Janet H and Chan, Antoni B},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
+}
 ```
 
 # Contact
